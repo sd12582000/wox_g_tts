@@ -1,0 +1,12 @@
+{
+  "ID":"fce2d72649a54dc2870f828efbef9add",   
+  "ActionKeyword":"say",                     
+  "Name":"Wox-G-TTS",                              
+  "Description":"say word with google tts service",    
+  "Author":"OldNick",                     
+  "Version":"0.0.1",                         
+  "Language":"python",                       
+  "Website":"",         
+  "IcoPath": "speaker.png",              
+  "ExecuteFileName":"wox_gtts.py"   
+}

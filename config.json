@@ -1,0 +1,9 @@
+{
+    "Common_lang":{
+        "zh-cn" : "Chinese (Mandarin/China)",
+        "zh-tw" : "Chinese (Mandarin/Taiwan)",
+        "ja" : "Japanese",
+        "zh" : "Chinese",
+        "en" : "English"
+    }
+}
